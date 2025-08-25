@@ -8,7 +8,6 @@ This directory contains example scripts demonstrating the BKM Engine capabilitie
 - `gpu_performance_demo.py` - Demonstrate GPU acceleration benefits
 - `custom_initial_condition.py` - How to use custom initial conditions
 - `convergence_study.py` - Grid refinement study
-- `reproduction_paper_figure.py` - Reproduce key figures from the paper
 
 ## Running Examples
 
@@ -20,4 +19,5 @@ python gpu_performance_demo.py --gpu
 ## Educational vs Production
 
 For educational/teaching demos, see `educational/` subdirectory.
+
 These examples use the production GPU engine for research-quality simulations.
