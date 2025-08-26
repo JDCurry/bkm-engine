@@ -33,10 +33,14 @@ pip install jupyter numpy scipy matplotlib
 ```
 
 ### Launch Notebook
-# From this directory
+### From this directory
+
+```
 jupyter notebook bkm_monitoring_demo.ipynb
+```
 
-# Or use JupyterLab
+### JupyterLab
+
+```
 jupyter lab bkm_monitoring_demo.ipynb
-
-This README clearly distinguishes the educational materials from the production code, explains what the notebook demonstrates, and provides context for both students and reviewers. It emphasizes that this is for teaching concepts, not for research simulations.
+```
