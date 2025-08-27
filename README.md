@@ -2,7 +2,7 @@
 
 A GPU-accelerated pseudo-spectral solver for probing classical blow-up scenarios in 3D incompressible Navier-Stokes equations.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![DOI](https://zenodo.org/badge/1043993306.svg)](https://doi.org/10.5281/zenodo.16957327)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
