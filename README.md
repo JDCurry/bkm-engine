@@ -18,7 +18,9 @@ The BKM Engine implements a high-fidelity numerical framework for investigating 
 
 ## Paper
 
-Curry, J.D. (2025). "The BKM Engine: A GPU-Accelerated Pseudo-Spectral Solver for Classical Blow-Up Scenarios in 3D Incompressible Navier-Stokes." [Pending Publication]
+An early draft can be found in the repository here: https://github.com/JDCurry/bkm-engine/blob/main/BKM_Engine___Unpublished_Draft.pdf
+
+Computational tests are complete, and we are currently compiling results and figures as of August 31, 2025.
 
 
 ## Installation
